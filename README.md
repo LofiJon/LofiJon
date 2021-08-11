@@ -28,7 +28,7 @@
     
    &nbsp;
   
-  ![Snake animation](https://github.com/jonathanmalagueta/LofiJon/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LofiJon/LofiJon/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
