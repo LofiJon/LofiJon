@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/jonathanmalagueta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanmalagueta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmalagueta&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LofiJon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LofiJon&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   <div style="display: inline_block"><br>
   <i class="devicon-spring-plain colored"></i>
@@ -28,7 +28,7 @@
     
    &nbsp;
   
-  ![Snake animation](https://github.com/jonathanmalagueta/jonathanmalagueta/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jonathanmalagueta/LofiJon/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
