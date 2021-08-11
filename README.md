@@ -25,6 +25,8 @@
   <div top="100">
   <a href="https://www.instagram.com/jonmalagueta.js/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathan-malagueta-524391150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+   &nbsp;
   
   ![Snake animation](https://github.com/jonathanmalagueta/jonathanmalagueta/blob/output/github-contribution-grid-snake.svg)
 </div>
