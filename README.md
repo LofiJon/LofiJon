@@ -17,7 +17,6 @@
   <img align="center" alt="LofiJon-Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="LofiJon-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="LofiJon-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
-  <img align="right" alt="LofiJon" height="200" width="230" src="https://i.imgur.com/VkSuaVo.gif?noredirect">
 </div>
    
   ##
