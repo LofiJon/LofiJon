@@ -1,4 +1,4 @@
-### Hi, my name is Jonathan and I am 22 years old. And this is a place to get to know me a little👨‍💻
+### Hi, my name is Jonathan and I am 23 years old. And this is a place to get to know me a little👨‍💻
 
 - 🔭I'm currently working as a fullstack developer, with Springboot and VueJS 🐱‍🏍
 - 🌱I'm currently improving with Spring Boot and Vue, but I always try to learn new things in my spare time. Currently learning AngularJS on front-end and Node for back-end.
