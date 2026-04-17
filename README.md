@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan Malagueta (LofiJon)</h1>
-<h3 align="center">Senior Software Developer & Architect | SaaS Specialist | Cloud & AI Enthusiast</h3>
+<h3 align="center">Senior Software Developer & Architect | Cloud & SaaS Specialist</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lofijon&theme=dracula&column=7" alt="lofijon" />
@@ -9,27 +9,26 @@
 
 ### 🚀 About Me
 
-Senior developer and architect with a strong focus on **Clean Architecture**, **SOLID principles**, and **Domain-Driven Design (DDD)**. Currently balancing complex enterprise solutions with high-impact SaaS products.
+Senior developer and systems architect focused on building scalable, maintainable, and high-performance applications. I specialize in designing robust ecosystems using **Clean Architecture** and **SOLID** principles.
 
-- 👨‍💻 Working as a Senior Developer at **Arandu/DOMO**.
-- 🛠️ Building the future of event photography with **Ticlick** (Facial Recognition & Fintech).
-- 🏥 Developing health-tech solutions like **Autivox** and **InovaSaúde**.
-- 🧠 Deeply interested in **AI-driven solutions** and **Cloud Infrastructure (AWS/Kubernetes)**.
-- 📍 Based in Manaus/AM, Brazil.
+- 🏗️ **Architectural Expertise:** DDD, Hexagonal Architecture, and Microservices.
+- ☁️ **Cloud Specialist:** Designing and deploying scalable infrastructure on AWS and Kubernetes.
+- 🤖 **AI Integration:** Implementing LLMs and Computer Vision into real-world SaaS products.
+- 🏢 **Professional Focus:** Bridging the gap between complex business rules and clean, decoupled code.
 
 ---
 
 ### 🛠️ Tech Stack & Expertise
 
-**Languages & Frameworks**
-- **Backend:** NestJS (Node.js), .NET Core, Spring Boot, Kotlin.
-- **Frontend:** Angular, Vue.js, Svelte, TailwindCSS.
-- **Mobile:** PWA Specialist (LucApp/PaterApp).
+**Core Ecosystem**
+- **Backend:** NestJS (TypeScript Specialist), .NET Core (C#), Spring Boot (Java/Kotlin).
+- **Frontend:** Angular, Vue.js, Svelte & Modern PWAs.
+- **Mobile:** Hybrid solutions and high-performance WebViews.
 
-**Infrastructure & Databases**
-- **Cloud:** AWS (EKS, App Runner, S3, Secrets Manager, Bedrock), Cloudflare R2.
-- **DevOps:** Kubernetes, Docker, CI/CD Pipelines.
-- **Databases:** PostgreSQL (TypeORM/Prisma), MongoDB, SQL Server, Redis.
+**Infrastructure & Persistence**
+- **Cloud & DevOps:** AWS (EKS, App Runner, S3, Secrets Manager), Docker, CI/CD, Cloudflare.
+- **Databases:** PostgreSQL (TypeORM/Prisma), MongoDB, Redis, SQL Server.
+- **Message Brokers:** RabbitMQ & Event-Driven architectures.
 
 ---
 
@@ -47,9 +46,4 @@ Senior developer and architect with a strong focus on **Clean Architecture**, **
 <p align="left">
   <a href="https://linkedin.com/in/jonathan-malagueta" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="mailto:jonathan.malagueta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-  <a href="https://instagram.com/lofijon" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" /></a>
-</p>
-
-<p align="center">
-  <i>"⚡ Fun fact: I build scalable systems while listening to Lofi Hiphop."</i>
-</p>
+  <a href="https://instagram.com/lofijon" target="blank"><img src="
